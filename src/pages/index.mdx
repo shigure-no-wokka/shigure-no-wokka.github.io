@@ -1,0 +1,39 @@
+import BaseLayout from "../layouts/BaseLayout.astro";
+import BaseCard from "../components/BaseCard.astro";
+import Collapse from "../components/blog/collapse.astro";
+import Diff from "../components/blog/diff.astro";
+import Error from "../components/blog/error.astro";
+import Info from "../components/blog/info.astro";
+import Kbd from "../components/blog/kbd.astro";
+import Success from "../components/blog/success.astro";
+import Warning from "../components/blog/warning.astro";
+import TimeLine from "../components/page/TimeLine.astro";
+import LinkCard from "../components/page/LinkCard.astro";
+
+---
+
+<BaseLayout title="Home">
+    <BaseCard title="Home" image="https://raw.githubusercontent.com/shigure-no-wokka/pic_bed/main/imgs/shigure_banner.png">
+
+        ## A New Game Programmer!
+
+        > [!INFO] 代码是拷的, 人是会跑的
+
+        I am currently focusing on Unreal Engine to expand my skills in game development.
+
+        <table>
+            <tr>
+                <td><img src="https://github-readme-stats.vercel.app/api?username=shigure-no-wokka&show_icons=true&theme=tokyonight" alt="shigure-no-wokka's GitHub stats"></img></td>
+                <td><img src="https://streak-stats.demolab.com/?user=shigure-no-wokka&theme=tokyonight" alt="GitHub Streak"></img></td>
+            </tr>
+        </table>
+
+        <table>
+            <tr>
+                <td colspan="2" align="center"><img src="https://count.getloli.com/get/@:shigure-no-wokka?theme=rule34" alt="shigure-no-wokka">Human may die, but Doom Eternal.</img></td>
+            </tr>
+        </table>
+
+    </BaseCard>
+
+</BaseLayout>

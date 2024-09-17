@@ -14,6 +14,9 @@ export function remarkAdmonition() {
   
         // 定义不同提示类型的映射关系
         const admonitionMap = {
+          '[!TIP]': { class: 'alert alert-info', icon: getInfoIcon() },
+          '[!NOTE]': { class: 'alert alert-warning', icon: getWarningIcon() },
+          '[!IMPORTANT]': { class: 'alert alert-success', icon: getSuccessIcon() },
           '[!ERROR]': { class: 'alert alert-error', icon: getErrorIcon() },
           '[!INFO]': { class: 'alert alert-info', icon: getInfoIcon() },
           '[!SUCCESS]': { class: 'alert alert-success', icon: getSuccessIcon() },

@@ -21,7 +21,7 @@ tags:
 
 比如：
 
-```Cpp
+```cpp
 // 普通函数
 int Add(int a, int b)
 {
@@ -63,7 +63,7 @@ struct Divide
 - `decltype(IsItemLocked)`返回的是函数类型，不是指针类型，使用`using`和`typedef`时也要注意
 - 如果要返回一个函数指针，需要显式定义返回类型
 
-```Cpp
+```cpp
 using F = int(int*, int);       // 定义了一个函数类型
 using PF = int(*)(int*, int);   // 定义了一个函数指针
 

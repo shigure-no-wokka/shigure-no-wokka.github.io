@@ -7,6 +7,7 @@ categories:
     - Frag
 tags:
     - GameDevelopment
+    - SelfDevelopment
 ---
 
 # Game Programmer

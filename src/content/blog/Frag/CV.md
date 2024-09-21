@@ -66,8 +66,7 @@ tags:
 
 ## 项目经历
 
-> [!IMPORTANT]
-> <h3>XXX项目 | Unreal Engine 5</h3>
+### XXX项目 | Unreal Engine 5
 
 `MVVM架构` `Lua (UnLua)` `依赖注入` `UI事件系统` `GM指令调试工具`
 
@@ -83,8 +82,7 @@ tags:
 
 ---
 
-> [!IMPORTANT]
-> <h3>自研事件系统 | Unreal Engine 5</h3>
+### 自研事件系统 | Unreal Engine 5
 
 `C++` `Lua (UnLua)` `RPC` `事件系统`
 
@@ -97,8 +95,7 @@ tags:
 
 ---
 
-> [!IMPORTANT]
-> <h3>自研UI管理系统 | Unreal Engine 5</h3>
+### 自研UI管理系统 | Unreal Engine 5
 
 `C++` `Lua (UnLua)` `MVVM架构`
 
@@ -112,8 +109,7 @@ tags:
 
 ---
 
-> [!IMPORTANT]
-> <h3>自研对象池系统 | Unreal Engine 5</h3>
+### 自研对象池系统 | Unreal Engine 5
 
 `C++` `Object Pooling`
 

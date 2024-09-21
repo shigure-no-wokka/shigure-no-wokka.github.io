@@ -26,9 +26,9 @@ tags:
 
 ---
 
-> [!NOTE] <h1>工作经历</h1>
+## 工作经历
 
-## 上海XXX数字科技有限公司   |   UE开发工程师    |   XXXX.X ~ 至今
+### XXXXXXXX有限公司   |   UE开发工程师    |   XXXX.X ~ 至今
 
 `Unreal Engine 5` `Lua (UnLua)` `MVVM架构` `事件系统`
 
@@ -43,20 +43,20 @@ tags:
 
 ---
 
-> [!NOTE] <h1>技术特长</h1>
+## 技术特长
 
-## Unreal Engine
+### Unreal Engine
 
 - 熟练使用Unreal Engine开发游戏系统，尤其擅长UI系统的设计与实现。
 - 擅长使用蓝图快速迭代游戏逻辑和原型开发。
 - 了解UE中的资产管理、性能优化及多人网络同步技术。
 
-## C++
+### C++
 
 - 熟练使用面向对象设计思想和常见数据结构进行开发。
 - 有为Unreal Engine开发C++模块的经验，能够扩展引擎功能并支持第三方库集成。
 
-## Lua
+### Lua
 
 - 熟练使用UnLua快速开发游戏逻辑。
 - 开发定制的Lua模块，用于UI系统处理。
@@ -64,9 +64,10 @@ tags:
 
 ---
 
-> [!NOTE] <h1>项目经历</h1>
+## 项目经历
 
-## XXX项目 | Unreal Engine 5
+> [!IMPORTANT]
+> <h3>XXX项目 | Unreal Engine 5</h3>
 
 `MVVM架构` `Lua (UnLua)` `依赖注入` `UI事件系统` `GM指令调试工具`
 
@@ -82,7 +83,8 @@ tags:
 
 ---
 
-## 自研事件系统 | Unreal Engine 5
+> [!IMPORTANT]
+> <h3>自研事件系统 | Unreal Engine 5</h3>
 
 `C++` `Lua (UnLua)` `RPC` `事件系统`
 
@@ -95,7 +97,8 @@ tags:
 
 ---
 
-## 自研UI管理系统 | Unreal Engine 5
+> [!IMPORTANT]
+> <h3>自研UI管理系统 | Unreal Engine 5</h3>
 
 `C++` `Lua (UnLua)` `MVVM架构`
 
@@ -109,7 +112,8 @@ tags:
 
 ---
 
-## 自研对象池系统 | Unreal Engine 5
+> [!IMPORTANT]
+> <h3>自研对象池系统 | Unreal Engine 5</h3>
 
 `C++` `Object Pooling`
 
@@ -122,9 +126,9 @@ tags:
 
 ---
 
-> [!NOTE] <h1>其他工作经历</h1>
+## 其他工作经历
 
-## XXXXXXX   |   XXX  |   XXXX.X ~ XXXX.XX
+### XXXXXXX   |   XXX  |   XXXX.X ~ XXXX.XX
 
 `Python` `Office`
 
@@ -134,8 +138,3 @@ tags:
 
 ---
 
-<head> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
-    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
-</head> 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">

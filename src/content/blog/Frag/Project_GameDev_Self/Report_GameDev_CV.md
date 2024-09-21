@@ -68,7 +68,7 @@
 
 ## 项目经历
 
-#### XXX项目 | Unreal Engine 5
+#### XXX项目 | Unreal Engine 5 | XXXX.X ~ XXXX.X
 
 `MVVM架构` `Lua (UnLua)` `依赖注入` `UI事件系统` `GM指令调试工具`
 
@@ -77,14 +77,14 @@
   - 使用MVVM框架处理界面显示和数据绑定，通过依赖注入实现数据与ViewModel的解耦，提升了系统的可扩展性和维护性。
   - 构建简易的UI内部事件通信系统，避免使用全局事件总线，减少总线带宽占用，提高了系统性能。
   - 开发支持静态和动态绑定GM指令的调试工具，简化调试过程，提升开发效率，省去了调试中手动添加物品的步骤。
-  - 深度优化UI逻辑与性能，确保系统的可扩展性和灵活性，方便后续功能模块的扩展。
+  <!-- - 深度优化UI逻辑与性能，确保系统的可扩展性和灵活性，方便后续功能模块的扩展。 -->
 - **成果与挑战**:
-  - 成功实现UI模块的高效开发，降低了UI系统的复杂度并优化了资源占用。
+  - 成功提高UI模块的开发效率，降低了UI系统的复杂度并优化了资源占用。
   - 调试工具显著提升了开发效率，减少了手动操作步骤。
 
 ---
 
-#### 自研事件系统 | Unreal Engine 5
+#### 自研事件系统 | Unreal Engine 5 | XXXX.X ~ XXXX.X
 
 `C++` `Lua (UnLua)` `RPC` `事件系统`
 
@@ -97,7 +97,7 @@
 
 ---
 
-#### 自研UI管理系统 | Unreal Engine 5
+#### 自研UI管理系统 | Unreal Engine 5 | XXXX.X ~ XXXX.X
 
 `C++` `Lua (UnLua)` `MVVM架构`
 
@@ -111,7 +111,7 @@
 
 ---
 
-#### 自研对象池系统 | Unreal Engine 5
+#### 自研对象池系统 | Unreal Engine 5 | XXXX.X ~ XXXX.X
 
 `C++` `Object Pooling`
 
@@ -126,7 +126,7 @@
 
 ## 其他工作经历
 
-#### XXXXXXX   |   XXX  |   XXXX.X ~ XXXX.XX
+#### XXXXXXX    |    XXX    |    XXXX.X ~ XXXX.XX
 
 `Python` `Office`
 

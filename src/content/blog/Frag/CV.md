@@ -1,34 +1,36 @@
----
-title: 个人简历样式测试
-pubDate: 2024-09-21 23:34:44
-description: 发上来测试一下自己的简历样式
-image: https://raw.githubusercontent.com/shigure-no-wokka/pic_bed/main/imgs/family_frag.jpg
-categories: 
-    - Frag
-tags:
-    - GameDevelopment
-    - CurriculumVitae
----
+
+<div style="text-align: center;">
+  
+**XXXXXXX**  
+[Github](https://github.com) | Email: XXXXXXX | Phone: XXXXXXX
+
+</div>
 
 
-# XXXXXXX - 求职简历
+## 教育经历
 
-<i class="fa-solid fa-user">XXXXXXX</i>
+<table style="width:100%">
+  <tr>
+    <td>XXXX.X ~ XXXX.X</td>
+    <td><strong>XXXX大学</strong></td>
+    <td>XX学</td>
+    <td>硕士学位</td>
+  </tr>
+  <tr>
+    <td>XXXX.X ~ XXXX.X</td>
+    <td><strong>XX大学</strong></td>
+    <td>XXXX学</td>
+    <td>学士学位</td>
+  </tr>
+</table>
 
-<i class="fa-brands fa-github">XXXXXXX</i>
 
-<i class="fa-regular fa-envelope">XXXXXXX</i>
-
-<i class="fa-solid fa-phone">XXXXXXX</i>
-
-<i class="fa-solid fa-school">**XXXX大学**      XX学        硕士学位</i>
-<i class="fa-solid fa-school">**XX大学**        XXXX学      学士学位</i>
 
 ---
 
 ## 工作经历
 
-### XXXXXXXX有限公司   |   UE开发工程师    |   XXXX.X ~ 至今
+#### XXXXXXXX有限公司   |   UE开发工程师    |   XXXX.X ~ 至今
 
 `Unreal Engine 5` `Lua (UnLua)` `MVVM架构` `事件系统`
 
@@ -45,18 +47,18 @@ tags:
 
 ## 技术特长
 
-### Unreal Engine
+#### Unreal Engine
 
 - 熟练使用Unreal Engine开发游戏系统，尤其擅长UI系统的设计与实现。
 - 擅长使用蓝图快速迭代游戏逻辑和原型开发。
 - 了解UE中的资产管理、性能优化及多人网络同步技术。
 
-### C++
+#### C++
 
 - 熟练使用面向对象设计思想和常见数据结构进行开发。
 - 有为Unreal Engine开发C++模块的经验，能够扩展引擎功能并支持第三方库集成。
 
-### Lua
+#### Lua
 
 - 熟练使用UnLua快速开发游戏逻辑。
 - 开发定制的Lua模块，用于UI系统处理。
@@ -66,7 +68,7 @@ tags:
 
 ## 项目经历
 
-### XXX项目 | Unreal Engine 5
+#### XXX项目 | Unreal Engine 5
 
 `MVVM架构` `Lua (UnLua)` `依赖注入` `UI事件系统` `GM指令调试工具`
 
@@ -82,7 +84,7 @@ tags:
 
 ---
 
-### 自研事件系统 | Unreal Engine 5
+#### 自研事件系统 | Unreal Engine 5
 
 `C++` `Lua (UnLua)` `RPC` `事件系统`
 
@@ -95,7 +97,7 @@ tags:
 
 ---
 
-### 自研UI管理系统 | Unreal Engine 5
+#### 自研UI管理系统 | Unreal Engine 5
 
 `C++` `Lua (UnLua)` `MVVM架构`
 
@@ -109,7 +111,7 @@ tags:
 
 ---
 
-### 自研对象池系统 | Unreal Engine 5
+#### 自研对象池系统 | Unreal Engine 5
 
 `C++` `Object Pooling`
 
@@ -124,7 +126,7 @@ tags:
 
 ## 其他工作经历
 
-### XXXXXXX   |   XXX  |   XXXX.X ~ XXXX.XX
+#### XXXXXXX   |   XXX  |   XXXX.X ~ XXXX.XX
 
 `Python` `Office`
 

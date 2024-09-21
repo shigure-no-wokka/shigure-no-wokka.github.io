@@ -1,3 +1,14 @@
+---
+title: 个人在线简历样式测试
+pubDate: 2024-09-22 00:59
+description: 测试一下个人的在线简历样式
+image: https://raw.githubusercontent.com/shigure-no-wokka/pic_bed/main/imgs/family_frag.jpg
+categories:
+  - Frag
+tags:
+  - GameDevelopment
+  - SelfDevelopment
+---
 
 <div style="text-align: center;">
   
